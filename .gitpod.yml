@@ -1,4 +1,4 @@
-image: XXXXXXXXXX
+image: patrickmckernin/photogram-associations-2022-spring
 
 tasks:
   - before: |
